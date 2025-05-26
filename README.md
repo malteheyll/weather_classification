@@ -48,3 +48,5 @@ This project uses a weather dataset to compare different regression models for t
 - The optimized LightGBM model (n_estimators=220, learning_rate=0.02, max_depth=7, num_leaves=10, min_data_in_leaf=20) achieved the best performance with an  of approximately 0.74.
 
 - Random Forest and Linear Regression achieved  values of about 0.65 and 0.55, respectively.
+
+![Beobachtete vs Vorhergesagte Temperaturen](Beobachtete_vs_Vorhergesgte_Temperaturen.PNG)
