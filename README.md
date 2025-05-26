@@ -49,4 +49,4 @@ This project uses a weather dataset to compare different regression models for t
 
 - Random Forest and Linear Regression achieved  values of about 0.65 and 0.55, respectively.
 
-![Beobachtete vs Vorhergesagte Temperaturen](Beobachtete_vs_Vorhergesgte_Temperaturen.PNG)
+![Beobachtete vs Vorhergesagte Temperaturen](Beobachtete_vs_Vorhergesagte_Temperaturen.PNG)
